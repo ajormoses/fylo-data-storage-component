@@ -14,8 +14,8 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   You will find all the required assets in the `/images` and `/design` folder. The assets are already optimized.
 
   - [Links](#links)
-    - Solution URL : [ ]
-    - Live URL : [ ]
+    - Solution URL : [ https://github.com/ajormoses/fylo-data-storage-component.git ]
+    - Live URL : [ https://ajormoses.github.io/fylo-data-storage-component/ ]
 
 - [My process](#my-process)
     1. I started by looking through the designs to start planning out how i will tackle the project. 
